@@ -1,3 +1,5 @@
+![code](https://github.com/Dev-RichardZamoner/Estudando/assets/130820445/07ab2494-6852-45b2-a93e-899b405ff2d1)
+LEMBRANDO QUE A PÁGINA HOME MOSTRADA NA IMAGEM PARA VOCES FAZ DIRECIONAMENTO PARA TODOS OS OUTROS LINKS.
 # Estudando
 Estudando pela Roadmap.sh/full-stack
 
